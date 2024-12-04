@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryce Lovett
+- 👋 Hi, I’m Bryce Lovett, a CIS graduate from Georgia State University and an aspiring Data Analyst.
 - 👀 I’m interested in Data Analytics, Data Science, Information Technology, Sports, and Comics.
 - 🌱 I’m currently learning SQL, Python, R, Power BI, and Tableau to build up my skill set.
 - 💞️ I’m looking to collaborate on open-source data analytics/science projects and start creating my portfolio.
